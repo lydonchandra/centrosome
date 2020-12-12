@@ -11,3 +11,4 @@ centrosome
 Centrosome is an image processing library used in CellProfiler project.
 
 Most algorithms are being migrated to scikit-image.
+
